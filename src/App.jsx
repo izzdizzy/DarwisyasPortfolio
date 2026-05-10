@@ -1,6 +1,6 @@
 import './App.css'
 import "@fontsource/pinyon-script"; 
-import DarwisyaPortfolio from './Darwisyaportfolio' // Make sure the filename matches exactly!
+import DarwisyaPortfolio from './DarwisyaPortfolio.jsx' // Make sure the filename matches exactly!
 
 function App() {
   return (
