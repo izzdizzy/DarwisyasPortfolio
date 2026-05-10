@@ -1,0 +1,21 @@
+/* src/index.css */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #E8D5D5; /* Matches your p.blush color */
+}
+
+/* This targets the main wrapper Vite uses */
+#root {
+  width: 100%;
+  max-width: none; /* Removes Vite's default max-width constraint */
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
